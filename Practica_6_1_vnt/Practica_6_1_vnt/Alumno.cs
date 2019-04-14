@@ -2,7 +2,7 @@
 
 namespace Practica_6_1_vnt
 {
-    internal class Alumno
+    public class Alumno
     {
         private string nombre;
         private int nota;

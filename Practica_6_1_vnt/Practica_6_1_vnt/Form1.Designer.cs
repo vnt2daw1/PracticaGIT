@@ -84,6 +84,7 @@
             this.listaAlumnos.Location = new System.Drawing.Point(47, 144);
             this.listaAlumnos.Multiline = true;
             this.listaAlumnos.Name = "listaAlumnos";
+            this.listaAlumnos.ReadOnly = true;
             this.listaAlumnos.Size = new System.Drawing.Size(659, 223);
             this.listaAlumnos.TabIndex = 5;
             // 
